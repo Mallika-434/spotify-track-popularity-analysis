@@ -132,7 +132,7 @@ spotify-track-popularity-analysis/
 
 ### Python
 1. Clone the repo
-2. Install dependencies: `pip install pandas numpy scikit-learn xgboost matplotlib seaborn`
+2. Install dependencies: `pip install pandas numpy scikit-learn xgboost matplotlib seaborn.`
 3. Open `spotify_analysis.ipynb` in Jupyter Notebook
 4. Run all cells top to bottom
 
